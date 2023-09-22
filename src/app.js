@@ -8,6 +8,7 @@ mongoose.connect("mongodb://localhost:27017/Playlist")
 .catch((error) => console.log(console.error));
 
 // schema
+
 // A Mongoose schema defines the structure of the doucment,
 // default values, validators, etc.,
 
